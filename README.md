@@ -1,3 +1,3 @@
 # jupyter_scrapping
 
-Откройте main.ipnb
+Откройте main.ipynb
